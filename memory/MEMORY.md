@@ -35,6 +35,7 @@ This is my curated, distilled knowledge. Updated periodically from daily logs.
 - **Budget:** $5/day, $100/month (optimized)
 - **Telegram:** Bot connected & working
 - **Vault:** Git-synced Obsidian (sage-vault)
+- **GitHub:** Configured with token, gh CLI ready for repo management
 
 ## Tools & Skills
 - ✅ summarize (URL, PDF, YouTube)
@@ -55,11 +56,24 @@ This is my curated, distilled knowledge. Updated periodically from daily logs.
 4. Daily memory logs → accountability
 5. Rate limits enforced → budget protection
 
+## Projects in Progress
+
+### Cashflow (Expense Tracker)
+- **Status:** React frontend + Docker preview setup ✅
+- **GitHub:** https://github.com/yugeshr/cashflow-app
+- **Stack:** React 18 + Tailwind CSS + Vite + Node.js (coming) + PostgreSQL (coming)
+- **Frontend:** Live React dashboard with Cashflow design
+- **Preview:** Docker Compose with Vite dev server (hot reload) + auto git-sync
+- **Access:** http://localhost:3000 (direct or via SSH tunnel)
+- **Components:** StatCard, TransactionList, CategoryBreakdown
+- **Next:** Backend API (Node.js/Express), Telegram bot, Database
+
 ## Lessons Learned
 - Tailscale not always available (use polling)
 - Rate limits matter on a budget
 - Obsidian as second brain is powerful
 - Automation saves time & money
+- GitHub token auth works via GH_TOKEN env var
 
 ---
 
