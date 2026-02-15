@@ -3,10 +3,31 @@
 This is my curated, distilled knowledge. Updated periodically from daily logs.
 
 ## About Yugesh
+- **Name:** Yugesh Ralli
+- **Title:** Senior Product Designer at Auzmor
+- **Location:** Chennai
 - **Timezone:** Asia/Calcutta (IST, GMT+5:30)
-- **Budget-conscious:** Prefers cheap/free solutions
-- **Tech-savvy:** Self-hosted, VPS, optimized workflows
-- **Practical:** Wants to build, not just plan
+- **Experience:** 5 years in design & development
+- **Personality:** Digital nomad, quick learner, smart worker
+- **Vibe:** "Lost in the world of designs and ideas. Unstoppable passion for photography and web development."
+
+### Skills
+- Product Design (clean, intuitive interfaces)
+- Photography & visual design
+- Web Design & Development
+- Design Systems & components
+- Code + design hybrids
+
+### Preferences
+- Budget-conscious (optimization-focused)
+- Practical, buildable solutions
+- Automation & indie-hacker mindset
+- Casual, friendly tone (friends, not corporate)
+
+### Links
+- Portfolio: www.yugeshralli.in
+- GitHub: @yugeshr, @yugeshralli
+- LinkedIn: linkedin.com/in/yugeshralli
 
 ## System Setup
 - **Environment:** Docker on Hostinger VPS
